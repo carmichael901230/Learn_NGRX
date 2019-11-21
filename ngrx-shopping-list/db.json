@@ -1,0 +1,24 @@
+{
+  "shopping": [
+    {
+      "id": 2,
+      "name": "Dr. Pepper"
+    },
+    {
+      "id": "8504967e-e788-402b-80ce-58755e5e3962",
+      "name": ""
+    },
+    {
+      "id": "f518aa9d-458d-4b4e-a786-c9ad0aa11906",
+      "name": "fanta"
+    },
+    {
+      "id": "bd90ceaa-56a7-4ea5-8873-1350bc1d95d0",
+      "name": "fdsf"
+    },
+    {
+      "id": "027e83f3-b4e3-4a7f-9b7e-5b0ce7842e48",
+      "name": "fdsf"
+    }
+  ]
+}
